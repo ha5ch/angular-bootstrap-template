@@ -2,6 +2,8 @@
 
 Template for Angular with Bootstrap using a **sticky header** and **fixed footer**, based on the [sticky-footer-navbar](https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/) template of bootstrap. Also checks the `height` of both components and updates the `main`-container (`<rooter-outlet>` part) to pass between them.
 
+![how it looks like](example.png)
+
 ## How to?
 
 Create a new angular project
